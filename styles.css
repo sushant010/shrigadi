@@ -1,0 +1,91 @@
+.nav{
+  margin: 20px;
+}
+
+.btn{
+  float: right;
+  background-color: #008CBA;
+  border-radius: 5px;
+  font-size: 35px;
+  padding: 3px;
+  margin:10px;
+  text-decoration:none;
+  color: white;
+  border: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #008CBA;
+}
+
+li {
+  float: left;
+  font-size: 20px;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #EDEDED;
+}
+
+.container1{
+  margin: 20px;
+}
+.contents{
+  margin: 20px;
+}
+.card-title {
+  text-align: center;
+}
+.testimonials{
+  margin-top: 20px;
+  display: flex;
+justify-content: center;
+border: 2px solid grey;
+
+}
+.testhead{
+  text-align: center;
+}
+.test-img{
+  border-radius: 70%;
+    width: 130px;
+    height: 130px;
+    align-items: center;
+}
+.container3{
+  margin: 20px;
+  background-color:#D8D9CF;
+   text-align: center;
+}
+.container2{
+  margin: 20px;
+   background-color:#D8D9CF;
+   text-align: center;
+}
+.imgContainer{
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+
+  border: 2px solid grey;
+    float:left;
+    padding: 20px;
+}
+.foot2{
+  background-color:#D8D9CF;
+  margin: 20px;
+}
+.connect-logo{
+  padding-top: 10px;
+ padding-left: 40px;
+}
